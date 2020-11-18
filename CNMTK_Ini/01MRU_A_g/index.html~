@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+    <title> mobile </title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css">
+body {background-color:cyan;}
+</style>
+  </head>
+  <body>
+    <p> <big><big>Introduce la parte por donde vas<br>
+          Si es la 1 se escribe parte1 y picas en entrar<br>
+        </big></big></p>
+    <script language="javascript">
+function Entrar(password) {window.location=password+"/e1.html"}
+</script>
+    <form>
+      <p><input name="palabra" size="25" type="text"> <input value="entrar" onclick="Entrar(this.form.palabra.value)" name="button" type="button">
+      </p>
+    </form>
+  </body>
+</html>
