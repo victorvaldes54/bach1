@@ -1,0 +1,28 @@
+1.-Un perro que se mueve a 12m/s sale 10s después detrás de un conejo que se mueve a 10m/s.Calcula cuando lo alcanza Sol:50s
+
+2.- Dos corredores salen desde los dos extremos de una pista de 1104m de longitud, uno al encuentro de otro, uno va a 14m/s y otro a 10m/s. Calcula donde se encuentran
+Sol:583,33m
+
+3.- Un ladrón roba un banco y escapa en un patinete a una velocidad de 12m/s. 1 minuto después un policía sale en bicicleta en su búsqueda, parte del reposo con una aceleración de 0,1m/s². Calcula donde alcanza al ladrón
+Sol:55,38s
+
+4.- Si sales de casa con dirección al parque a una velocidad de 7,2km/h y 5 minutos más tarde tu madre sale a buscarte con una velocidad de 10,08km/h. Calcula donde te encuentra
+Sol:2138,46m
+
+5.- Juanita huye del instituto a una velocidad de 20,16km/h. 4 minutos después Brunilda, partiendo del reposo sale persiguiéndola con una aceleración de 0,1m/s². Calcula donde la encuentra
+Sol:966,96s
+
+6.- A las 10:00 de la mañana sale de Gijón hacia Oviedo un autobús con una velocidad de 79,92km/h. A la misma hora desde Oviedo, que está a 28km sale otro bus hacia Gijón a 60,12km/h. Calcula la posición final del bus de Gijón cuando se encuentran
+Sol:16000m
+
+7.- A las 09:30 de la mañana sale desde del principio de la Avenida de La Constitución una mosca a 3m/s con dirección al Corte Inglés. 10s  más tarde, sale del Corte Inglés un moscardón con velocidad inicial 0km/h y una aceleración de 0,02m/s², por la misma Avenida para encontrarse con la mosca. Si la longitud de la Avenida es 5km. Calcula la posición de la mosca cuando se encuentran
+Sol: 515,56s
+
+8.- El caballo blanco de Santiago sale de su casa con una velocidad de 7m/s. 30s después Tiburcio sale en su búsqueda para ver de que color es. Si lleva una velocidad de 10m/s. Calcula donde lo alcanza
+Sol: 700m
+
+9.- Vas a coger el bus y cuando estas a 10m sale con una velocidad de 11,88km/h. Te lanzas en su búsqueda partiendo del reposo con una aceleración de 1m/s². Calcula cuando espacio recorres hasta alcanzarlo
+Sol:24,93m
+
+10.- El tonto que todo lo sabe se marcha de clase con una velocidad de 6m/s. 30s después te acuerdas que no copiaste los deberes de Física ( para una vez que manda algo) sales en su persecución . Calcula cuanto tiempo tardas en alcanzarlo 
+Sol:450m

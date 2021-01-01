@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+    <title> mobile </title>
+    <meta name="viewport" content="width=device-width">
+  </head>
+  <body bgcolor="#99ffff" alink="#EE0000" vlink="#551A8B" text="#000000"
+    link="#0000EE">
+    <p><font size="+2">ru.-Un avión vuela horizontalmente con una velocidad de 720km/h y su altura 
+    sobre el suelo es de 7840m. Desde el avión se suelta una bomba, que hace explosión al llegar al 
+    suelo. Calcula el tiempo transcurrido desde que se lanza la bomba hasta que se percibe, 
+    en el avión, la explosión. DATO: Vsonido=340m/s  
+    <br>
+    SOL: _ _,5sru
+    <br>
+    <a href="control.html"><font size="+3"><b>AVANZA</b></font></a>
+  </body>
+</html>
