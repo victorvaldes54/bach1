@@ -1,0 +1,39 @@
+rm.- Un objeto describe una trayectoria circular de forma uniformemente acelerada a 0,046 rad/s<sup>2</sup> partiendo del reposo. Tras 118 s, el objeto ha completado 160 vueltas y 67º de circunferencia en el desplazamiento. Calcula la posición angular inicial del objeto.<br>
+SOL: _ _ _ _,_ _ 1radrm
+1006,101 rad
+
+ru.- Un ventilador de aspas logra que estas giren a 240 rpm, partiendo del reposo. Calcula su aceleración angular si tarda 16 s en llegar a esa velocidad máxima.<br>
+SOL: _,_ _ 1rads2ru
+1,571 rad/s^2
+
+rr.- Si un gato que parte del reposo comienza a correr en círculos de radio 15m, llegando a acelerar de forma constante hasta alcanzar los 40,5 km/h en un tiempo de 22 s, calcula la velocidad angular en rpm que poseía el gato a la mitad del tiempo mencionado.<br>
+SOL: _,_ _ 1rpmrr
+3,571 rpm
+
+rc.- Calcula cuánto tiempo tardan las aspas de un molino en dar 26 vueltas y un cuarto si se sabe que partiendo del reposo alcanza una velocidad angular de 0,6&pi; rad/s a los 46 s de aceleración constante.<br>
+SOL: _ _,_ 2src
+28,42 s
+
+ri.- En el acelerador de partículas del CERN un protón se desplaza en una trayectoria circular de forma acelerada, llegando desde el reposo a su velocidad angular máxima de 7·10<sup>4</sup> rad/s en 0,042 s. Si el electrón recorre en total un distancia lineal de 6000 km, calcula el radio de la circunferencia que describe.<br>
+SOL: _ _ _ _,_ _ 6mri
+4080,816 m
+
+re.- Calcula la aceleración angular con la que frena una rueda si en el instante inicial su velocidad lineal es de 135 km/h y esta se ve reducida hasta los 81 km/h tras 38 s. El diámetro de la rueda mide 0,6 m.<br>
+SOL: -_,_ _ 6rads2re
+-1,316 rad/s^2
+
+rl.- Una centrifugadora realiza un movimiento circular acelerado, de forma que, partiendo del reposo, tarda 52 s en llegar a completar 37,75 vueltas. Calcula el tiempo que necesita para alcanzar una velocidad angular de 87 rpm, teniendo en cuenta que acelera de forma constante.<br>
+SOL: _ _,_ _ 6srl
+51,786 s
+
+ra.- Una ciclista lleva una velocidad lineal de 63 km/h en el momento en el que llega a una cuesta hacia abajo. Gracias a la cuesta, consigue acelerar de forma constante sus ruedas a 2,3 rad/s<sup>2</sup>. Sabiendo que el radio de las ruedas es de 0,25 m, calcula la velocidad angular que tendrán a los 20 s desde que entró en la cuesta.<br>
+SOL: _ _ 6radsra
+116 rad/s
+
+rg.- Un grupo de familiares se monta en una noria. En ese momento, la noria parte del reposo y acelera de forma constante hasta llegar a girar a 33 rpm. Calcula el número de vueltas que da la noria una vez alcanzó esa velocidad angular si tardó 44 s en llegar a ella.<br>
+SOL: _ _,_ 2vueltasrg
+14,52 vueltas
+
+ro.- Un tren está a 2,3 km de distancia de la estación donde debe frenar antes del límite final de la vía. Si se desplaza a 200 km/h, calcula el valor de la aceleración angular de sus ruedas para poder frenar a tiempo sin chocar. El radio de las ruedas es de 0,5 m.<br>
+SOL: -_,_ _ 5rads2ro
+-1,565 rad/s^2

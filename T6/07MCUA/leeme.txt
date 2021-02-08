@@ -1,0 +1,29 @@
+Se rellenan los e1...e2 con el texto de los problemas
+Se puede poner la solución
+Se hace con un editor de textos o con bluefish o similar
+ver aplicación portable, kompozer portable?
+Se puede validar el código html en https://validator.w3.org/
+La solución de los problemas es el nombre del archivo de
+las páginas donde están las soluciones
+Ej Si en el e1 sale 5,3m. La página solución se llama 5,3me1.html
+Para escribir se sigue html5
+Enlaces de interés
+https://www.brandominus.com/manuales/manual_html5.pdf
+http://www.jtech.ua.es/dadm/2011-2012/restringido/web/sesion02-apuntes.pdf
+http://www.lamolina.edu.pe/osi/manual/Curso_HTML5_v1.pdf
+
+La Biblia
+https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf
+
+De esta manera de trabajar hay dos versiones:
+-La cutre se abren en el escritorio del pc de clase las diferentes
+actividades, puedes tener 4 minimizadas simultáneamente y vas cambiando
+según el alumnado vaya haciendo los ejercicios
+-La Full con los smartphones, tablets, pc.
+
+Para alojar en la web tienes varios lugares:
+github
+Un servidor propio
+https://graasp.eu/
+Cualquier servidor que contrates. Los hay gratuitos
+

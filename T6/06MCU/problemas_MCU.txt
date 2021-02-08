@@ -1,0 +1,39 @@
+rm.- Un coche entra en una rotonda circular y comienza a dar vueltas a una velocidad lineal constante de 45 km/h. Si a esa velocidad tarda 5 s en dar una vuelta, calcula el radio de la rotonda.<br>
+SOL: _,_ _ 7mrm
+9,947 m
+
+ru.- Una niña nada en forma de círculos a velocidad constante en una piscina municipal. Calcula su velocidad angular en rpm si tarda en recorrer media circunferencia 8 s.<br>
+SOL: _,_ 5rpmru
+3,75 rpm
+
+rr.- Un helicóptero de la policía está vigilando la seguridad de un concierto y para ello está continuamente dando vueltas en una trayectoria circular horizontal a velocidad constante. Calcula la distancia lineal que habrá recorrido después de una hora y media, si su frecuencia de rotación es 0,01 Hz y su radio de circunferencia mide 50 m.<br>
+SOL: _ _ _ _ _,6mrr
+16964,6 m
+
+rc.- El dueño de un perro le deja con la correa atada a una farola. Para distraerse hasta que le libere su dueño, el perro rodea la farola describiendo un movimiento circular cuyo radio de curvatura es el que le permite la correa, en este caso de 7 m. Calcula el tiempo que tardará en completar 5 vueltas y un cuarto si su velocidad lineal constante es 2,5 m/s.<br>
+SOL: _ _,4src 
+92,4 s
+
+ri.- Una persona que se encuentra en un tiovivo experimenta un movimiento circular a velocidad angular constante de 0,4&pi; rad/s. Al cabo de 1 minuto y 45 segundos recorrió 21 vueltas completas y 35º de circunferencia. Calcula la posición angular inicial del movimiento.<br>
+SOL: _,_ _ 9radri
+0,609 rad
+
+re.- Calcula la frecuencia de rotación de las ruedas de un coche, cuando el vehículo se desplaza a una velocidad lineal constante de 81 km/h. El diámetro de las ruedas es de 0,6 m.<br>
+SOL: _ _,_ _ 7hzre
+11,937 Hz
+
+rl.- El premio de una ruleta se encuentra en el instante inicial del movimiento circular en una posición angular de 3/4 de vuelta con respecto del origen. Calcula la velocidad angular constante que debe llevar la ruleta para conseguir que esta dé 5 vueltas y media con respecto del origen en un tiempo de 25 s. De conseguirlo, el concursante podrá ganar el premio.<br>
+SOL: _,_ _ 4radsrl
+1,194 rad/s
+
+ra.- En una exhibición de animales, una jinete hace que su caballo se desplace describiendo una trayectoria circular a una velocidad lineal constante de 33 km/h con un radio de circunferencia de 15 m. Calcula el periodo de oscilación del movimiento.<br>
+SOL: _ _,_ 6sra
+12,56 s
+
+rg.- Imaginemos que la Luna describe una órbita circular y a velocidad constante alrededor de la Tierra. Sabiendo que su periodo de rotación es de 27 días, calcula el espacio angular total que recorre la Luna en 2 años y medio.<br>
+SOL: _ _ _,_ 4radrg
+212,34 rad
+
+ro.- Un hámster corre a velocidad constante dentro de una rueda con una pegatina en su exterior que marca la posición de un punto fijo en la rueda. Al comenzar a cronometrar el movimiento de la pegatina, la posición angular de esta es de 3/4&pi; rad. Calcula el número de vueltas que recorre la pegatina en 16 minutos. El hámster corre linealmente a 4,5 km/h y el radio de la rueda es de 15 cm.<br>
+SOL: _ _ _ _,_ _ 5vueltasro
+1273,335 vueltas

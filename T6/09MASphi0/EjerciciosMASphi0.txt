@@ -1,0 +1,39 @@
+rm.- Un muelle que oscila con una frecuencia de 3 Hz tiene una velocidad de 20 cm/s en el momento en que se empieza a contar el tiempo. La amplitud del movimiento es de 2 cm. Calcula su fase inicial.<br>
+SOL: _,_ _ 2radrm
+1,012 rad
+
+ru.- Un oscilador de periodo 10 s se aleja del punto de equilibrio y pasa por primera vez por un punto marcado en una regla tras medio segundo. Este punto se encuentra a una distancia igual a 4/5 de la amplitud del movimiento. Calcula la fase inicial.<br>
+SOL: _,_ _ 3radru
+0,613 rad
+
+rr.- Un oscilador se mueve con una amplitud de 2 m y parte con un desfase inicial de -&pi;/3 rad. Calcula su posición cuando han transcurrido 2,5 periodos.<br>
+SOL: _,_ _ 2mrr
+1,732 m
+
+rc.- En el instante t=0, un muelle oscilante tiene una aceleración de 8,7 m/s<sup>2</sup>, que es la mitad de la aceleración máxima que llega a alcanzar. Calcula su desfase inicial.<br>
+SOL: -_ _ _radrc
+-pi/6 rad
+
+ri.- Un muelle oscilante tiene una velocidad de 20 cm/s y una fase de -&pi;/4 rad en el instante en que se empieza a contar el tiempo. La amplitud del movimiento es de 10 cm. Calcula la frecuencia de la oscilación.<br>
+SOL: _,_ _0Hzri
+0,450 Hz
+
+re.- La elongación de un muelle oscilante es igual a 2/3 de la amplitud del movimiento a los 0,5 s de comenzar a contar el tiempo, desplazándose en sentido positivo. Su fase inicial es -&pi;/3 rad. Calcula el periodo de la oscilación.<br>
+SOL: _,_ _8sre
+1,768 s
+
+rl.- Una partícula oscilante alcanza una velocidad máxima de 30 cm/s. Su frecuencia es de 5 Hz y su fase inicial de -&pi;/12 rad. Calcula la aceleración de la partícula a los 0,15 s.<br>
+SOL: _,_ _4ms2rl
+9,104 m/s2
+
+ra.- Un oscilador de periodo 15 s parte con una fase inicial de &pi;/4 rad. Calcula en qué instante de tiempo se anula por primera vez su distancia al punto de equilibrio (ayuda: pasa de elongación positiva a negativa).<br>
+SOL: _,_ _5sra
+5,625 s
+
+rg.- En el instante t = 0 s, un muelle oscilante se desplaza con una velocidad positiva de valor <math><msqrt><mi>2</mi></msqrt></math>/2 veces la velocidad máxima que puede alcanzar. Calcula su fase inicial.<br>
+SOL: _ _ _radrg
+pi/4 rad
+
+ro.- Una partícula oscilante alcanza su máxima aceleración (positiva) por primera vez a los 2,5 s. Sabiendo que su fase inicial es de 10&deg;, calcula la frecuencia de la oscilación.<br>
+SOL: _,_ _9Hzro
+0,289 Hz

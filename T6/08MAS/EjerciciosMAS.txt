@@ -1,0 +1,39 @@
+rm.- Un oscilador de frecuencia 3 Hz y amplitud 5 cm se desplaza hacia su punto de equilibrio con una aceleración de 10 m/s<sup>2</sup>. Calcula su velocidad en ese mismo instante.<br>
+SOL: _,_ _ 1msrm
+0,781 m/s
+
+ru.- Un muelle oscilante pasa por su punto de equilibrio con una velocidad de 80 cm/s. El periodo del muelle es de 3 s. Calcula la elongación máxima del muelle.<br>
+SOL: _,_ _ 2mru
+0,382 m
+
+rr.- Un muelle oscilante tarda 1/60 s en recorrer la distancia desde su punto de equilibrio hasta la mitad de la amplitud del movimiento. Calcula su velocidad angular.<br>
+SOL: __piradsrr
+10pi rad/s
+
+rc.- Un oscilador de velocidad angular 8&pi; rad/s y amplitud 20 cm se encuentra una distancia de su punto de equilibrio igual a 4/5 de la amplitud del movimiento. Suponiendo que se aleja del punto de equilibrio, calcula la velocidad en ese instante.<br>
+SOL: _,__6msrc
+3,016 m/s
+
+ri.- Un muelle cuya frecuencia de oscilación es de 2 Hz recorre 8 cm entre ambos extremos del movimiento. Calcula la máxima aceleración (en valor absoluto) que alcanza.<br>
+SOL: _,__7ms2ri
+6,317 m/s2
+
+re.- La amplitud del movimiento de un oscilador es de 2 m. Durante la oscilación, alcanza una velocidad máxima de 5 m/s. Calcula el periodo de la oscilación.<br>
+SOL: _,__3sre
+2,513 s
+
+rl.- Un oscilador se desplaza hasta un máximo de 50 cm de su punto de equilibrio. Durante la oscilación, alcanza una velocidad máxima de 1 m/s. Calcula la posición del oscilador para t=0,5 s.<br>
+SOL: _,__1mrl
+0,421 m
+
+ra.- Un oscilador de periodo 2 s alcanza una aceleración máxima de 3 m/s<sup>2</sup>. Calcula en qué instante de tiempo alcanza por primera vez una aceleración igual a 2/3 de la máxima.<br>
+SOL: _,__2sra
+2,232 s
+
+rg.- Un muelle oscila con una amplitud de 10 cm y una frecuencia de 1 Hz. Calcula cuándo alcanza por primera vez una velocidad de 50 cm/s.<br>
+SOL: _,__4srg
+0,104 s
+
+ro.- Un oscilador tarda 10 s en realizar un movimiento completo. Sabiendo que la amplitud del movimiento es de 60 cm, calcula su velocidad 1,5 s después de pasar por el punto de equilibrio.<br>
+SOL: _,__2msro
+0,222 m/s
